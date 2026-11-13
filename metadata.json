@@ -1,0 +1,6 @@
+{
+  "name": "Opus Magna — Book Architecture, Daily Manuscript & NYT Bestseller Studio",
+  "description": "An editorial workspace to organize foundational book pillars, write daily chapters from structured topics and subtopics, generate chapter-aligned social media campaigns, compile the final manuscript, and execute a data-driven New York Times Bestseller marketing strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
